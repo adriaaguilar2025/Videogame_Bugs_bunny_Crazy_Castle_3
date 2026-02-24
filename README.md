@@ -1,5 +1,5 @@
 # Bugs_Bunny_Crazy_Castle_3  
-Sergi Malaguilla & Adria Aguilar
+Sergi Malaguilla Bombín & Adria Aguilar Garcia
 
 Funcionalitats implementades:
 
