@@ -3,7 +3,7 @@ Sergi Malaguilla Bombín & Adria Aguilar Garcia
 
 Funcionalitats implementades:
 
-Instruccions del joc:
+Instruccions del joc: 
 
 Structure:
 
