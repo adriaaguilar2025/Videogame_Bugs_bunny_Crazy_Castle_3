@@ -1,2 +1,6 @@
-# 2D_Game
-This repo contains Bugs_Bunny_Crazy_Castle_3 videogame 
+# Bugs_Bunny_Crazy_Castle_3  
+Sergi Malaguilla & Adria Aguilar
+Funcionalitats implementades:
+
+Instruccions del joc:
+
