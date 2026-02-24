@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+# === IDEs y Editores ===
+.vs/
+*.user
+.vscode/
+
+# === Sistema y Temporales ===
+.DS_Store
+Thumbs.db
+[Bb]in/
+[Oo]bj/
+*.log
