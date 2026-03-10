@@ -13,11 +13,15 @@
 
 # Linker files
 *.ilk
+*.exp
 
 # Debugger Files
 *.pdb
 
 # Compiled Dynamic libraries
+# NOTA: En la FIB a veces prefieren que las DLL vayan en el repo 
+# si están en la carpeta 'libs' para que el juego funcione al clonar.
+# Si ves que el juego no arranca al profe, quita el *.dll de aquí.
 *.so
 *.dylib
 *.dll
@@ -26,7 +30,7 @@
 *.mod
 *.smod
 
-# Compiled Static libraries
+# Compiled Static libraries (mismo caso que las DLL)
 *.lai
 *.la
 *.a
@@ -43,7 +47,15 @@
 # === IDEs y Editores ===
 .vs/
 *.user
+*.suo
 .vscode/
+ipch/
+
+# === Carpetas de Compilación (MUY IMPORTANTE) ===
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
 
 # === Sistema y Temporales ===
 .DS_Store
