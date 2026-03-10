@@ -1,65 +1,34 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-*.exp
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-# NOTA: En la FIB a veces prefieren que las DLL vayan en el repo 
-# si están en la carpeta 'libs' para que el juego funcione al clonar.
-# Si ves que el juego no arranca al profe, quita el *.dll de aquí.
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries (mismo caso que las DLL)
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
-
-# === IDEs y Editores ===
-.vs/
-*.user
-*.suo
-.vscode/
-ipch/
-
-# === Carpetas de Compilación (MUY IMPORTANTE) ===
+# === Bloquear carpetas de salida (EXE y OBJ) ===
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
-
-# === Sistema y Temporales ===
-.DS_Store
-Thumbs.db
 [Bb]in/
 [Oo]bj/
+
+# === IDE y archivos locales ===
+.vs/
+*.user
+*.suo
+ipch/
+
+# === Archivos sueltos que no queremos ===
+*.pdb
+*.ilk
+*.exp
+*.obj
 *.log
+*.tlog
+
+# === LIBRERÍAS (Excepciones) ===
+# Ignoramos todos los .lib y .dll por defecto...
+*.lib
+*.dll
+
+# ...PERO obligamos a que se suban los de la carpeta 'libs'
+!libs/**/*.lib
+!libs/**/*.dll
+
+# === RECURSOS (Asegurar que se suben) ===
+# Si tus carpetas de imágenes/shaders están en Projecte, 
+# se subirán por defecto a menos que las ignores.
