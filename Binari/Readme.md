@@ -1,1 +1,1 @@
-#Esta carpeta contiene el ejecutable del juego y todas sus dependencias
+## Esta carpeta contiene el ejecutable del juego y todas sus dependencias
