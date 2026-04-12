@@ -18,9 +18,6 @@
 ## 🎮 Gameplay Demo
 
 
-
-
-
 ---
 
 ## 🚀 About the Project
@@ -79,9 +76,6 @@ Réplica en 2D del clásico juego *Bugs Bunny Crazy Castle 3* de GameBoy Color. 
 
 ## 🎮 Demo del Juego
 
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
-  Tu navegador no soporta la etiqueta de vídeo.
-</video>
 
 ---
 
