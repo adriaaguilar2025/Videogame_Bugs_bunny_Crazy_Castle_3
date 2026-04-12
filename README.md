@@ -17,6 +17,9 @@
 
 ## 🎮 Gameplay Demo
 
+<video src="https://raw.githubusercontent.com/semabo29/2D_Game/main/Demo.mp4" controls="controls" style="max-width: 100%;">
+  Tu navegador no soporta la etiqueta de vídeo.
+</video>
 
 ---
 
