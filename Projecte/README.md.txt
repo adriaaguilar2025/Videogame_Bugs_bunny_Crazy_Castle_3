@@ -1,1 +1,0 @@
-Esta carpeta contiene todo el código fuente compilable para ejecutar el juego

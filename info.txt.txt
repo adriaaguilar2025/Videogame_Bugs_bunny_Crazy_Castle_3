@@ -1,0 +1,88 @@
+PROJECTE: BUGS BUNNY CRAZY CASTLE 3 (REPLICA)
+Assignatura: Videojocs (VJ) - FIB UPC
+Data: Març 2026
+
+DADES DEL GRUP
+Integrant 1: [Tu Nombre y Apellidos]
+
+Integrant 2: [Nombre y Apellidos del Compañero]
+
+Usuari SFTP: uservjNUM (Sustituir por el vuestro)
+
+FUNCIONALITATS IMPLEMENTADES
+1. Estructura de Menús (4 Pantalles)
+Menú Principal: Portada del joc.
+
+Instruccions: Panell explicatiu de controls i objectes.
+
+Selector de Nivells: Menú interactiu per triar entre els 5 nivells.
+
+Crèdits: Pantalla final de felicitació en completar el joc.
+
+Transició mitjançant la tecla [ENTER].
+
+2. Nivells i Progrés
+5 Nivells Principals: Replicats amb el sistema de Tilemaps.
+
+Sistema de Claus: Cal recollir el nombre total de claus indicat en el HUD per desbloquejar la porta final de cada nivell.
+
+Sub-habitacions: Portes intermèdies que porten a sales secretes (sub-nivells) i retornen al punt d'origen.
+
+3. Enemics (IA Avançada)
+Pato Lucas: L'enemic més complex. Segueix al jugador (Pathfinding), escala enredaderes, salta en trampolins i pot caure de plataformes per perseguir en Bugs Bunny.
+
+Piolín: Patrulla horitzontal que canvia de direcció en xocar amb parets o detectar buits.
+
+Gos (Perro): Comportament similar al Piolín però amb major dany (treu 2 vides).
+
+4. Objectes i Inventari
+HUD Completa: Visualització en temps real de Vides, Claus, Bombes i Rellotges.
+
+Bomba (Atac): Recollible i activable amb la tecla [B]. Explota en contacte amb l'enemic.
+
+Rellotge (Defensiu): Congela a tots els enemics del mapa durant 5 segons (Tecla [R]).
+
+Pesos (Física): Bugs Bunny pot empènyer els pesos per aixafar enemics. Tenen gravetat pròpia.
+
+Bota (Velocitat): Proporciona un augment de velocitat temporal al jugador.
+
+5. Elements del Mapa (Level Items)
+Jump Floor (Trampolí): Fa saltar automàticament al jugador.
+
+Sticky Floor: Redueix la velocitat de moviment d'en Bugs Bunny en trepitjar-lo.
+
+6. Sistema de Memòria i Estat
+El joc recorda la posició, direcció i estat (actiu/mort) de cada entitat quan es canvia de sala o nivell, evitant que els enemics "revisquin" o es resetejin incorrectament.
+
+CONTROLS
+Moviment: Tecles de Direcció (Fletxes).
+
+Pujar/Baixar Enredaderes: Fletxa Amunt / Avall.
+
+Entrar per Portes: Fletxa Amunt (Davant la porta).
+
+Deixar Bomba: Tecla [B].
+
+Usar Rellotge: Tecla [R].
+
+Passar Menús: Tecla [ENTER].
+
+Tecles de Debug (Obligatòries)
+[G]: Mode Déu (Invulnerabilitat).
+
+[K]: Afegeix 99 claus a l'inventari.
+
+[1, 2, 3, 4, 5]: Càrrega directa del nivell corresponent.
+
+POLISH I NOTES ADICIONALS
+So: Música de fons en bucle (nativa de Windows).
+
+Animacions: Transicions suaus d'estat (moure's, trepar, morir, parpelleig de bombes, obertura de portes).
+
+Game Feeling: S'ha buscat una resposta de control idèntica a l'original de GameBoy Color, amb "snapping" en les escales per evitar bloquejos.
+
+Nota: El vídeo demostratiu demo.mp4 inclou una partida ràpida on es mostren totes aquestes funcionalitats en menys d'un minut.
+
+REPO on s'ha desenvolupat el codi: https://github.com/AdriaAG05/Bugs_Bunny_crazy_castle3.git
+
+Si no es pot executar l'exe binari, obrir la solucio i executar desde el Visual Studio

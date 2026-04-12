@@ -32,3 +32,6 @@ ipch/
 # === RECURSOS (Asegurar que se suben) ===
 # Si tus carpetas de imágenes/shaders están en Projecte, 
 # se subirán por defecto a menos que las ignores.
+
+.vs/
+Debug/
