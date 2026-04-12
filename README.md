@@ -17,7 +17,7 @@
 
 ## 🎮 Gameplay Demo
 
-[![Watch the demo](https://img.shields.io/badge/PLAY-VIDEO-red?style=for-the-badge&logo=youtube)](https://github.com/semabo29/2D_Game/blob/main/Demo.mp4)
+https://github.com/user-attachments/assets/987950a2-3eb8-416e-b113-753964d8ef1a
 
 ---
 
@@ -77,6 +77,7 @@ Réplica en 2D del clásico juego *Bugs Bunny Crazy Castle 3* de GameBoy Color. 
 
 ## 🎮 Demo del Juego
 
+https://github.com/user-attachments/assets/987950a2-3eb8-416e-b113-753964d8ef1a
 
 ---
 
