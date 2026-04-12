@@ -3,11 +3,9 @@ Assignatura: Videojocs (VJ) - FIB UPC
 Data: Març 2026
 
 DADES DEL GRUP
-Integrant 1: [Tu Nombre y Apellidos]
+Integrant 1: Sergi Malaguilla
 
-Integrant 2: [Nombre y Apellidos del Compañero]
-
-Usuari SFTP: uservjNUM (Sustituir por el vuestro)
+Integrant 2: Adria Aguilar
 
 FUNCIONALITATS IMPLEMENTADES
 1. Estructura de Menús (4 Pantalles)
