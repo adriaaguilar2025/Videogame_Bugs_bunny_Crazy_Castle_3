@@ -17,7 +17,7 @@
 
 ## 🎮 Gameplay Demo
 
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
+<video src="Demo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
