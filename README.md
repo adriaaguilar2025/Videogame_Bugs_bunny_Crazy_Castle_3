@@ -15,6 +15,8 @@
 
 2D replica of the classic *Bugs Bunny Crazy Castle 3* for GameBoy Color. Developed in **C++** using **OpenGL** as a university project for the Videogames (VJ) course at FIB (UPC).
 
+This repository was created and edited after the project submission. The repository where it was originally developed is: https://github.com/AdriaAG05/Bugs_Bunny_crazy_castle3.git
+
 ## 🎮 Gameplay Demo
 
 https://github.com/user-attachments/assets/987950a2-3eb8-416e-b113-753964d8ef1a
@@ -74,6 +76,8 @@ https://github.com/user-attachments/assets/987950a2-3eb8-416e-b113-753964d8ef1a
 ## 🇪🇸 Versión en Español
 
 Réplica en 2D del clásico juego *Bugs Bunny Crazy Castle 3* de GameBoy Color. Desarrollado en **C++** utilizando **OpenGL** como proyecto universitario para la asignatura de Videojuegos (VJ) de la FIB (UPC).
+
+Este repositorio ha sido creado y editado después de la entrega del proyecto. El repositorio donde ha sido desarrollado es: https://github.com/AdriaAG05/Bugs_Bunny_crazy_castle3.git
 
 ## 🎮 Demo del Juego
 
